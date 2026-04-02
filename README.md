@@ -31,4 +31,4 @@
 *  I would have improved the archhitecture even better  so if new engineers join the team they shall have easier time going through code basee
   
 ### Download the apk from down below Oytra.apk 👇
-https://github.com/shalenMathew/Oytra-B2B-app/releases
+https://github.com/shalenMathew/Oytra-B2B-app/releases/tag/v1.0
