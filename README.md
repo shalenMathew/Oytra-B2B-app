@@ -16,3 +16,6 @@
 * **Scan Barcode:** Integrated scanner to identify products.
 * **Validation Logic:** **Invalid:** Throws "Invalid" if the code contains alphabets or if the last element is an odd number.
   * **Valid:** The barcode is considered "Valid" if the last element is an even number.
+  
+### Download the apk from down below Oytra.apk 👇
+https://github.com/shalenMathew/Oytra-B2B-app/releases
